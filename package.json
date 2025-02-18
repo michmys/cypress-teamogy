@@ -1,0 +1,14 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "description": "Cypress testing for Teamogy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michal M",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.0.3"
+  }
+}
